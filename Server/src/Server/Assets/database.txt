@@ -1,0 +1,8 @@
+user1:pass1:member1
+user2:pass2:member2
+user3:pass3:member3
+user4:pass4:member4
+user5:pass5:member5
+user6:pass6:member6
+user7:pass7:member7
+user8:pass8:member8
